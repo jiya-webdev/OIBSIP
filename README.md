@@ -31,12 +31,12 @@ The application simulates basic ATM operations through a simple menu-driven inte
 3. Make sure Java JDK is installed.
 4. Open the terminal.
 5. Compile the program:
-
 ```bash
-javac ATM.java
+javac JiyaChaudhary_Task3.java
 
 6.Run the program:
-java ATM
+java JiyaChaudhary_Task3
+
 7.Enter the PIN when prompted and select an option from the ATM menu.
 🔑 Default PIN
 1234
@@ -51,7 +51,7 @@ java ATM
 📂 Project Structure
 OIBSIP/
 │
-├── ATM.java
+├── JiyaChaudhary_Task3.java
 └── README.md
 🎯 Learning Outcomes
 
