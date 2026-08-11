@@ -1,4 +1,4 @@
-# OIBSIP - ATM Interface
+# OIBSIP - ATM Interface Task 3
 
 ## 📌 Project Overview
 
@@ -75,3 +75,46 @@ BCA Student | Web Developer
 📜 Internship
 
 This project was developed as part of the OIBSIP Java Development Internship.
+
+## 🎯 Task 2 - Number Guessing Game
+### 📌 Project Overview
+This project is a console-based Number Guessing Game developed using Java as part of the OIBSIP Java Development Internship.
+The computer generates a random number between 1 and 100, and the user has to guess the number within a limited number of attempts.
+
+### 🚀 Features
+
+- 🎲 Random number generation
+- 🔢 User guess input
+- ⬆️ Too High hint
+- ⬇️ Too Low hint
+- ✅ Correct guess message
+- 📊 Attempts count
+- 🔄 Play Again option
+- ❌ Game Over message with the correct number
+
+### 🛠️ Technologies Used
+
+- Java
+- Random
+- Scanner
+
+### 📂 Project Structure
+
+```text
+JiyaChaudhary_Task2.java
+🎓 Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+Java programming
+Random number generation
+User input handling
+Conditional statements
+Loops
+Boolean values
+Basic game logic
+👩‍💻 Author
+
+Jiya Chaudhary
+
+BCA Student | Web Developer
